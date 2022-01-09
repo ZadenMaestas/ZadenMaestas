@@ -1,0 +1,9 @@
+- Hi, I’m @TheProtonDev
+- I’m interested in:
+  - Software Development
+  - Python
+  - Arch Linux
+  - Discord Bot Development
+- I’m currently furthering my skills on Linux
+- I’m not looking to collaborate on anything at the moment, if you have something in mind you can always DM me on discord
+- How to reach me: My Discord is Proton#2573
