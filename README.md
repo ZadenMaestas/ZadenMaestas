@@ -1,9 +1,15 @@
 - Hi, I’m @TheProtonDev
+- Stack:
+  - I prefer backend, UI design is not my speciality
+- Language Experince:
+  - Been using Python since August, 2020
+  - Basic Shell Scripting
+  - I dabble in web development using JS, CSS, and HTML (Looking to try Svelte, I only use Vanilla JS at the moment)
 - I’m interested in:
   - Software Development
   - Python
   - Arch Linux
   - Discord Bot Development
-- I’m currently furthering my skills on Linux
-- I’m not looking to collaborate on anything at the moment, if you have something in mind you can always DM me on discord
+- I’m currently furthering my skills on Linux, working on various different projects, and always trying to learn more about computers and programming!
+- Always willing to help with a project if interested enough, if you have something in mind you can always DM me on discord
 - How to reach me: My Discord is Proton#2573
