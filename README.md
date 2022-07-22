@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheProtonDev&count_private=true&layout=compact&show_icons=true&theme=dark"/>
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheProtonDev&count_private=true&show_icons=true&layout=compact&theme=dark&langs_count=10&hide=lua)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheProtonDev&count_private=true&show_icons=true&layout=compact&theme=dark&langs_count=5&hide=lua,lolcode"/>
 </a>
 
 #### NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.
