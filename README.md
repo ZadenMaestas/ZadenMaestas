@@ -22,4 +22,4 @@
   - Discord Bot Development
 - I’m currently furthering my skills on Linux, working on various different projects, and always trying to learn more about computers and programming!
 - Always willing to help with a project if interested enough, if you have something in mind you can always DM me on discord
-- How to reach me: New contact method coming soon
+- How to reach me: zadenmaestasdev@gmail.com
