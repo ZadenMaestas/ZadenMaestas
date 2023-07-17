@@ -1,5 +1,5 @@
 - Hi, I’m Zaden
-- Portfolio / Personal Site: https://zadenmaestasdev.software
+- Portfolio / Personal Site: https://zadenm.dev
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZadenMaestas&count_private=true&layout=compact&show_icons=true&theme=dark"/>
 </a>
